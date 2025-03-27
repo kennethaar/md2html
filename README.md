@@ -15,7 +15,7 @@ A markdown to HTML converter
 
 ## INSTALLING
 **EXE version:**
-Just download the md2html.exe file and doubleclick on it. In your tray you should see a keyboard icon. Hovering over it should show you how to suspend and reactivate it.
+Just download the md2html.exe file and doubleclick on it. In your tray you should see a markdown icon. Hovering over it should show you how to run it. Clicking on it will run the converter.
 
 **AHK version:**
 To install, first install AutoHotKey V2 from here: https://www.autohotkey.com/
